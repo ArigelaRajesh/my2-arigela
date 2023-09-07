@@ -23,4 +23,14 @@ Miami is famous for its vibrant culture, **stunning beaches**, and lively nightl
    * Tropical Fruits
 * Cuban Coffee
 
-[link to MyStats.md file](https://github.com/ArigelaRajesh/my2-arigela/blob/main/MyStats.md)
+
+---
+
+#### 4 kinds of sports that I would recommend are:
+
+| Sport | Why I would recommend it? | Average hours per week |
+| --- | --- | ---: |
+| Soccer | I recommend it for teamwork and cardio fitness | 10 |
+| Basketball | I suggest it for agility and competitive enjoyment | 8 |
+| Golf | I advise it for relaxation and outdoor leisure | 12 |
+| Martial Arts | I propose it for self-defense and personal growth | 15 |
