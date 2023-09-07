@@ -41,3 +41,29 @@ Miami is famous for its vibrant culture, **stunning beaches**, and lively nightl
 > "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." - *Louis Pasteur*
 
 >> "In science, there are no shortcuts to truth." — *Carl Sagan*
+
+***
+
+### Code fencing:
+
+```JavaScript
+
+var newURL = window.location.protocol + "//" + window.location.host + "/" + window.location.pathname + window.location.search
+
+var pathArray = window.location.pathname.split('/');
+
+var secondLevelLocation = pathArray[0];
+
+var newPathname = "";
+for (i = 0; i < pathArray.length; i++) {
+  newPathname += "/";
+  newPathname += pathArray[i];
+}
+
+```
+
+**Link for Code Snippet:** [Code Snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
+
+**Link for Stack Overflow query:** [Link](https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript)
+
+---
