@@ -11,4 +11,14 @@ Miami is famous for its vibrant culture, **stunning beaches**, and lively nightl
 #### Three activities that I want do at Miami:
 1. Beaches
 2. Art Deco Historic District
+    1. Nightlife
+    5. Outdoor Activities
 3. Everglades National Park
+
+#### Favouite food dishes in Miami:
+* Cuban Sandwich
+* Stone Crab
+* Ceviche
+   * Arepas
+   * Tropical Fruits
+* Cuban Coffee   
