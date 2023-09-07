@@ -21,4 +21,6 @@ Miami is famous for its vibrant culture, **stunning beaches**, and lively nightl
 * Ceviche
    * Arepas
    * Tropical Fruits
-* Cuban Coffee   
+* Cuban Coffee
+
+[link to MyStats.md file](https://github.com/ArigelaRajesh/my2-arigela/blob/main/MyStats.md)
