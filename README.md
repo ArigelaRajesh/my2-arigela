@@ -64,6 +64,6 @@ for (i = 0; i < pathArray.length; i++) {
 
 **Link for Code Snippet:** [Code Snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
 
-**Link for Stack Overflow query:** [Link](https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript)
+**Link for Stack Overflow:** [Query link](https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript)
 
 ---
