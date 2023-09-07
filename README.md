@@ -34,3 +34,10 @@ Miami is famous for its vibrant culture, **stunning beaches**, and lively nightl
 | Basketball | I suggest it for agility and competitive enjoyment | 8 |
 | Golf | I advise it for relaxation and outdoor leisure | 12 |
 | Martial Arts | I propose it for self-defense and personal growth | 15 |
+
+---
+
+### Favorite Scientist Quotes:
+> "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." - *Louis Pasteur*
+
+>> "In science, there are no shortcuts to truth." — *Carl Sagan*
